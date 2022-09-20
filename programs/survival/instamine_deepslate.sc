@@ -10,6 +10,7 @@ __config() -> {
 global_instamine_blocks = [
   //'cobbled_deepslate',
   'deepslate'
+  'obsidian'
 ];
 
 // tools that can be use to instamine the list of blocks above
